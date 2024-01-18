@@ -1,0 +1,6 @@
+.completo{
+    display: block;
+    flex-direction: column; 
+    margin: 80px;
+    border: 80px;
+}
